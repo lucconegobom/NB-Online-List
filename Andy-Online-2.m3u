@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/premiere-1-300x150-1.webp" group-title="FUTEBOL",Globo RPC TV Maringá alta definição
-https://embedcanaistv.com/premiereclubes/
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/premiere-1-300x150-1.webp" group-title="FUTEBOL",Premiere Clubes
+https://embedcanaistv.site/premiereclubes/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Viva" tvg-name="Viva" tvg-logo="https://embedcanaistv.com/wp-content/uploads/2024/10/viva-300x150-1.webp" group-title="VARIEDADES",Teste Canal Viva
 https://embedcanaistv.site/viva/tracks-v1a1/mono.m3u8
